@@ -1,0 +1,249 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="Fzu8sGkp0evUxb0VfZ9d">
+    <mxGraphModel dx="1640" dy="810" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8nh2Nw5KQ4DHxijT3AC--17" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;&lt;i&gt;Conflicts&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="282" y="215" width="128" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8nh2Nw5KQ4DHxijT3AC--5" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt; Based on &lt;b&gt;Literature &lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFBEB;strokeColor=#85740A;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="700" width="360" height="168.67" as="geometry" />
+        </mxCell>
+        <mxCell id="8nh2Nw5KQ4DHxijT3AC--6" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; Based on Company/Tool &lt;b&gt;Policies &amp;amp; Terms&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E4F8FF;strokeColor=light-dark(#0000FF,#EDEDED);verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="210" width="359.22" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;&lt;u&gt;What happens to data inputted into &lt;br&gt;public GenAI tools?&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="110" width="320" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;&lt;b&gt;&lt;u&gt;Common biomedical &lt;br&gt;data protection rules&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="480" y="110" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-3" value="&lt;span id=&quot;docs-internal-guid-76f23707-7fff-35db-41b7-ba63494535f1&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;GenAI companies&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt; access, use, &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;and &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;store &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;data for a wide variety of reasons and for &lt;b&gt;variable durations&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="249" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-4" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;GenAI increases risk of &lt;b&gt;re-identification&lt;/b&gt; &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-118.5" y="817.5" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-5" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;When data are used for&lt;b&gt; model training&lt;/b&gt;, the model may &lt;b&gt;memorize &lt;/b&gt;and subsequently &lt;b&gt;leak &lt;/b&gt;the data to other &lt;b&gt;public users&lt;/b&gt;. &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6600CC;" parent="1" vertex="1">
+          <mxGeometry x="-118.5" y="733" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-7" value="&lt;span id=&quot;docs-internal-guid-76f23707-7fff-35db-41b7-ba63494535f1&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;GenAI companies&lt;b&gt; disclose &lt;/b&gt;data&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt; to a large number of internal or external &lt;br/&gt;parties and entities&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="338" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-8" value="&lt;span id=&quot;docs-internal-guid-76f23707-7fff-35db-41b7-ba63494535f1&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Prohibits unauthorized data&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt; access &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;or &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;disclosure &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;(HIPAA, IRB/consent, CAD)&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="480" y="191" width="320" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-9" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Prohibits &lt;b&gt;re-identification &lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;(CAD)&lt;/span&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="529" width="320" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-11" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Prohibits data &lt;b&gt;re-distribution&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;(HIPAA, IRB/consent, CAD)&lt;/span&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="270" width="320" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-12" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;&lt;font&gt;&lt;font style=&quot;&quot;&gt;Permits only specified &lt;b style=&quot;&quot;&gt;research use&lt;/b&gt; &lt;br&gt;(prohibits non-approved uses)&lt;/font&gt;&lt;b style=&quot;&quot;&gt; &lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;(HIPAA, IRB/consent, CAD)&lt;/span&gt;&lt;font style=&quot;&quot; face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="390" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#0000FF,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-3" target="EiylRcde8cv5knAj6YIH-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="400" as="sourcePoint" />
+            <mxPoint x="450" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#2d41d7, #ededed);startSize=8;endSize=7;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EiylRcde8cv5knAj6YIH-7" target="EiylRcde8cv5knAj6YIH-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="250" as="sourcePoint" />
+            <mxPoint x="480" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#2d41d7, #ededed);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-7" target="EiylRcde8cv5knAj6YIH-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="320" as="sourcePoint" />
+            <mxPoint x="480" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#AB5E17;startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-4" target="EiylRcde8cv5knAj6YIH-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="410" as="sourcePoint" />
+            <mxPoint x="480" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.006;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.009;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=light-dark(#0000FF,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-3" target="EiylRcde8cv5knAj6YIH-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="470" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EiylRcde8cv5knAj6YIH-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#6600CC,#EDEDED);startSize=8;endSize=7;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EiylRcde8cv5knAj6YIH-5" target="EiylRcde8cv5knAj6YIH-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="350" as="sourcePoint" />
+            <mxPoint x="480" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EW6urkA0yZeiO4Hrxrh0-1" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Enforces patient &lt;b&gt;rights &lt;/b&gt;to receive notice of privacy practices, access data, and request amendment&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;(HIPAA)&lt;/span&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="790" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EW6urkA0yZeiO4Hrxrh0-2" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Prohibits &lt;b&gt;selling &lt;/b&gt;data&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;(HIPAA, CAD)&lt;/span&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="331" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EW6urkA0yZeiO4Hrxrh0-3" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Prohibits access for &lt;b&gt;legal proceedings&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;(CAD with Certificate of Confidentiality)&lt;/span&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="879" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EW6urkA0yZeiO4Hrxrh0-4" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Requires &lt;b&gt;specific security &lt;/b&gt;safeguards&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;white-space-collapse: preserve; font-family: Arial, sans-serif; font-size: 14.6667px;&quot;&gt;(HIPAA, CAD)&lt;/span&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="590" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EW6urkA0yZeiO4Hrxrh0-5" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Requires data &lt;b&gt;des&lt;font&gt;truction &lt;/font&gt;&lt;/b&gt;&lt;font&gt;when approved access terminates&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;white-space-collapse: preserve; font-family: Arial, sans-serif; font-size: 14.6667px;&quot;&gt;(HIPAA, IRB/consent, CAD)&lt;/span&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="709" width="320" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="EW6urkA0yZeiO4Hrxrh0-6" value="&lt;font&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;&lt;font&gt;Prohibits potentially &lt;b&gt;harmful &lt;/b&gt;uses&lt;/font&gt;&lt;b&gt; &lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;(HIPAA, IRB/consent, CAD)&lt;/span&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="470" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EW6urkA0yZeiO4Hrxrh0-7" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Requires protecting data &lt;b&gt;derivatives&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;white-space-collapse: preserve; font-family: Arial, sans-serif; font-size: 14.6667px;&quot;&gt;(HIPAA, IRB/consent, CAD)&lt;/span&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="650" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wpY4VEijZcUEIcLR5ahu-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#6600CC,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-5" target="EW6urkA0yZeiO4Hrxrh0-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="504" as="sourcePoint" />
+            <mxPoint x="484" y="774" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpY4VEijZcUEIcLR5ahu-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#6600CC,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-5" target="EiylRcde8cv5knAj6YIH-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="486" as="sourcePoint" />
+            <mxPoint x="474" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nh2Nw5KQ4DHxijT3AC--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#0A8512;strokeColor=none;" parent="1" source="wpY4VEijZcUEIcLR5ahu-4" target="EiylRcde8cv5knAj6YIH-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-158" y="528" />
+              <mxPoint x="-158" y="768" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wpY4VEijZcUEIcLR5ahu-4" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;Data may be used to &lt;b&gt;improve &lt;/b&gt;or &lt;b&gt;train &lt;/b&gt;other models and associated tools &lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#0A8512,#EDEDED);" parent="1" vertex="1">
+          <mxGeometry x="-120" y="503" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wpY4VEijZcUEIcLR5ahu-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#6600CC,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-5" target="EW6urkA0yZeiO4Hrxrh0-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="196" y="493" as="sourcePoint" />
+            <mxPoint x="482" y="488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGQM0xONuAAwBkIDQMRK-1" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;When data are used for&lt;/span&gt;&lt;b style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; model training&lt;/b&gt;&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve; font-family: Arial, sans-serif; font-size: 14.6667px;&quot;&gt;the company &lt;/span&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt;owns rights, title, and interest in the model improved by or developed from the data, and the resulting model&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px; white-space-collapse: preserve;&quot;&gt; may be &lt;b&gt;sold&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#0A8512,#EDEDED);" parent="1" vertex="1">
+          <mxGeometry x="-120" y="563" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-1" value="&lt;span id=&quot;docs-internal-guid-76f23707-7fff-35db-41b7-ba63494535f1&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;GenAI companies&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;implement &lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;standard &lt;br/&gt;security controls,&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt; but details are not clear&lt;/span&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="429" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#0000FF,#EDEDED);exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=8;endSize=7;strokeWidth=2;" parent="1" source="vgoOZLQAGVrZx7I0bYso-1" target="EW6urkA0yZeiO4Hrxrh0-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="420" as="sourcePoint" />
+            <mxPoint x="481" y="594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0000FF,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-3" target="EW6urkA0yZeiO4Hrxrh0-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="247" as="sourcePoint" />
+            <mxPoint x="787" y="671" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0000FF,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-3" target="EW6urkA0yZeiO4Hrxrh0-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="246" as="sourcePoint" />
+            <mxPoint x="449" y="1015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#6600CC,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-5" target="EW6urkA0yZeiO4Hrxrh0-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="605" as="sourcePoint" />
+            <mxPoint x="497" y="977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#6600CC,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-5" target="EW6urkA0yZeiO4Hrxrh0-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="241" y="711" as="sourcePoint" />
+            <mxPoint x="519" y="977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0000FF,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-3" target="EW6urkA0yZeiO4Hrxrh0-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="198" y="328.5" as="sourcePoint" />
+            <mxPoint x="480" y="1027.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0A8512,#EDEDED);fillColor=#6a00ff;startSize=8;endSize=7;strokeWidth=2;" parent="1" source="eGQM0xONuAAwBkIDQMRK-1" target="EW6urkA0yZeiO4Hrxrh0-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235" y="716" as="sourcePoint" />
+            <mxPoint x="516" y="564" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0A8512,#EDEDED);fillColor=#6a00ff;startSize=8;endSize=7;strokeWidth=2;" parent="1" source="eGQM0xONuAAwBkIDQMRK-1" target="EiylRcde8cv5knAj6YIH-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="427" y="965" as="sourcePoint" />
+            <mxPoint x="704" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#2d41d7, #ededed);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-3" target="EW6urkA0yZeiO4Hrxrh0-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199" y="240" as="sourcePoint" />
+            <mxPoint x="426" y="1228.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0000FF,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-3" target="EiylRcde8cv5knAj6YIH-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="690" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#1C5CF4,#EDEDED);exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-3" target="EW6urkA0yZeiO4Hrxrh0-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="330" as="sourcePoint" />
+            <mxPoint x="770" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#0A8512,#EDEDED);fillColor=#6a00ff;startSize=8;endSize=7;strokeWidth=2;" parent="1" source="eGQM0xONuAAwBkIDQMRK-1" target="EW6urkA0yZeiO4Hrxrh0-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="700" as="sourcePoint" />
+            <mxPoint x="430" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#0A8512,#EDEDED);fillColor=#6a00ff;startSize=8;endSize=7;strokeWidth=2;" parent="1" source="eGQM0xONuAAwBkIDQMRK-1" target="EW6urkA0yZeiO4Hrxrh0-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="730" as="sourcePoint" />
+            <mxPoint x="560" y="896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgoOZLQAGVrZx7I0bYso-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#6600CC,#EDEDED);startSize=8;endSize=7;strokeWidth=2;" parent="1" source="EiylRcde8cv5knAj6YIH-5" target="EiylRcde8cv5knAj6YIH-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="384" as="sourcePoint" />
+            <mxPoint x="702" y="596" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nh2Nw5KQ4DHxijT3AC--10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#6600CC;strokeColor=none;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="EiylRcde8cv5knAj6YIH-5" target="eGQM0xONuAAwBkIDQMRK-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="728" as="sourcePoint" />
+            <mxPoint x="122" y="676" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nh2Nw5KQ4DHxijT3AC--14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0A8512,#EDEDED);fillColor=#6a00ff;startSize=8;endSize=7;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eGQM0xONuAAwBkIDQMRK-1" target="EW6urkA0yZeiO4Hrxrh0-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="543" as="sourcePoint" />
+            <mxPoint x="480" y="696" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nouCofMrcI8gw6GlHVG-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#0A8512,#EDEDED);fillColor=#6a00ff;startSize=8;endSize=7;strokeWidth=2;" parent="1" source="eGQM0xONuAAwBkIDQMRK-1" target="EiylRcde8cv5knAj6YIH-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="561" as="sourcePoint" />
+            <mxPoint x="460" y="249" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nouCofMrcI8gw6GlHVG-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#0A8512,#EDEDED);fillColor=#6a00ff;startSize=8;endSize=7;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="eGQM0xONuAAwBkIDQMRK-1" target="EiylRcde8cv5knAj6YIH-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="605" as="sourcePoint" />
+            <mxPoint x="850" y="477" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

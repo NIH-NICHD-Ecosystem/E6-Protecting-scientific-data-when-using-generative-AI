@@ -10,7 +10,7 @@
 
 # Table of Contents
 
-- [Effort Overview](#effort-overview): high-level details and contact information
+- [Effort Overview](#effort-overview)
   - Effort Overview
   - Primary Contact
   - Details

@@ -21,7 +21,7 @@
 <br/><br/>
 
 # Effort Overview 
-The rapid popularization of ChatGPT and other generative AI (GenAI) technologies based on large language models (LLMs) offer enticing opportunities for biomedical research. The research community must protect sensitive data they may wish to use in these tools. The Eunice Kennedy Shriver National Institute for Child Health and Human Development (NICHD) Office of Data Science and Sharing (ODSS) has analyzed the privacy policies and terms of service/use of several public LLM-based GenAI tools and considered literature regarding re-identification as well as memorization and leakage of model training data to identify potential conflicts with  data protection obligations common in biomedical research. 
+The rapid popularization of ChatGPT and other generative AI (GenAI) technologies based on large language models (LLMs) offer enticing opportunities for biomedical research. The research community must protect sensitive data they may wish to use in these tools. The _Eunice Kennedy Shriver_ National Institute for Child Health and Human Development (NICHD) Office of Data Science and Sharing (ODSS) has analyzed the privacy policies and terms of service/use of several public LLM-based GenAI tools and considered literature regarding re-identification as well as memorization and leakage of model training data to identify potential conflicts with  data protection obligations common in biomedical research. 
 
 #### Primary contact:  _[NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov)_<br/>
 

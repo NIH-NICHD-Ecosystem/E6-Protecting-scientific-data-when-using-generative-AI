@@ -2,7 +2,7 @@
 
 </br>
 
-# E6-Protecting-scientific-data-when-using-generative-AI
+# E6 Protecting scientific data when using generative AI
 
 ### This effort is a summary of how biomedical data protection obligations may conflict with the research community’s use of public GenAI tools based on company-wide or tool-specific privacy policies and terms of service/use, as well as the nature of the underlying large language models. It examines three potential sources of data protection rules common to biomedical research involving human data and compares them to common principles in GenAI policies, terms, and related literature regarding how data inputs and outputs are handled to illustrate risks that the research community should consider.  Awareness of these challenges can inform how researchers, scientific data repositories, and organizations engage with both public and private instances of GenAI tools.
 
